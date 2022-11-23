@@ -1,4 +1,4 @@
-# Ingestion tool utilizing googleDocsAPI
+# Ingestion2Docs
 
  Simple python scripts using socket connection and googles Docs API to ingest a data string into a google docs document. In the document the string is ether ingested at the end of the document or at a specific position inside the document, simply defined by including ``{{input}}`` at the desired document position.
  
