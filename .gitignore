@@ -1,0 +1,7 @@
+credentials.json
+token.json
+/data_reduction_socket
+/venv/*/
+/.idea
+__pycache__
+/docu
